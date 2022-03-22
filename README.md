@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kennetheversole
+ ## 👋 Hi, I’m Kenneth Eversole
 - 👨‍💻 Check out my site [eversole.dev](https://eversole.dev/)
 
 
