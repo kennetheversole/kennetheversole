@@ -2,4 +2,4 @@
 - 👨‍💻 Check out my site [eversole.dev](https://eversole.dev/)
 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+![](https://komarev.com/ghpvc/?username=kennetheversole)
